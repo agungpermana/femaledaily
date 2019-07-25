@@ -2,7 +2,7 @@
 
 ## Basic Overview
 
-This simple shopping cart prototype shows how React components and Redux can be used to build
+This is simple page about information, review of beauty
 
 
 ## Tech Stack
